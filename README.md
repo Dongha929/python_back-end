@@ -3,5 +3,4 @@
 first, use git clone in home directory   
 second, install pip using get-pip.py from https://bootstrap.pypa.io/pip/2.7/get-pip.py   
 
-making some function in venv, I met hard thing...   
-I cannot install httpie to check function using http command    
+wiling to autosetting(install pip, install virtualenv, make virtual environment), I cannot run source ~/python_back-end/myproject/bin/activate to activate virtual environment. I cannot also run cd projects...
